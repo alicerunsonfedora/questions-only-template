@@ -1,0 +1,7 @@
+{
+    "version": "2.0",
+    "stage": "alpha",
+    "codename": "material",
+    "build": "6",
+    "notes": "<ul class = 'collection' style = 'width: 100%'><li class = 'collection-item' style = 'width: 100%'>New responsive menu that changes between the classic and sidenav style based on screen size</li><li class = 'collection-item' style = 'width: 100%'>Updated help screen with copyright information, changelogs, and beta information</li><li class = 'collection-item' style = 'width: 100%'>1</li></ul>"
+}
